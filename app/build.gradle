@@ -32,8 +32,9 @@ android {
 }
 
 dependencies {
-    implementation project(':badgelibrary')
+//    implementation project(':badgelibrary')
 //    implementation 'com.github.charlie-captain:BadgeManager:1.0.0'
+    implementation 'com.github.charlie-captain.BadgeManager:base:1.0.1'
 
     implementation 'androidx.core:core-ktx:1.6.0'
     implementation 'androidx.appcompat:appcompat:1.3.0'
