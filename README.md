@@ -44,3 +44,6 @@ BadgeManager.instance.edit(nodeKey).setBadgeNumber(random).commit()
 ```
 
 
+https://user-images.githubusercontent.com/18600419/153549438-54cd5680-9298-4ca9-8199-576a90ee1427.mov
+
+
